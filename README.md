@@ -1,4 +1,4 @@
-Benvenuti
+__Benvenuti__
 
 Codex è lo spazio GitHub creato dalla [Accademia di Belle Arti "Mario Sironi" di Sassari](http://accademiasironi.it) per archiviare e divulgare risorse di [Creatività Computazionale](https://en.wikipedia.org/wiki/Computational_creativity).
 
@@ -8,7 +8,7 @@ A breve saranno disponibili un sito ufficiale e alcuni canali social che dovrebb
 
 ---
 
-Welcome
+__Welcome__
 
 Codex is the GitHub space created by the [Academy of Fine Arts "Mario Siorni" of Sassari, Italy](http://accademiasironi.it) to archive and divulge resources of [Computational Creativity](https://en.wikipedia.org/wiki/Computational_creativity).
 
