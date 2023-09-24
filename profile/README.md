@@ -4,4 +4,6 @@ Codex è lo spazio GitHub creato dalla [Accademia di Belle Arti "Mario Sironi" d
 
 Il progetto è stato iniziato dai docenti CREA (Unità di Ricerca per la Creatività Computazionale ABA Sironi), ma l'accesso è aperto a chiunque.
 
-A breve saranno disponibili un sito ufficiale, un'area discussioni e alcuni canali social che dovrebbero rendere più facile seguire aggiornamenti e sviluppi.
+Buona parte dei materiali disponibili sarà divulgata come _vault_ [Obsidian](https://obsidian.md), un software gratuito e disponibile per ogni tipo di piattaforma, basato sull'organizzazione di file di testo in [formato markdown].
+
+A breve saranno disponibili un sito ufficiale, un'area discussioni e alcuni canali social che renderanno più semplice il seguire aggiornamenti e sviluppi.
