@@ -1,1 +1,1 @@
-Questo repository serve solo per il testo di benvenuto all'ingresso della [raccolta dei repository](https://github.com/ABA-Sironi-Codex).
+Questo _repository_ contiene solo il testo di benvenuto all'ingresso dello [spazio GitHub di ABA Sironi](https://github.com/ABA-Sironi-Codex).
